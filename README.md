@@ -1,0 +1,2 @@
+# studybud
+django project
